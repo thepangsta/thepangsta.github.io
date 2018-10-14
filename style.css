@@ -2,5 +2,12 @@ body
     {
         background-color: #bea1a5;
         font-family: Playfair Display;
-        /* background: url("kristaps-grundsteins-576659-unsplash.jpg"); */
+    }
+
+img
+    {
+        max-width: 100%;
+        height: auto;
+        padding: 40px;
+        justify-content: center;
     }
