@@ -1,13 +1,16 @@
-body
-    {
-        background-color: #bea1a5;
-        font-family: Playfair Display;
+body {
+    background-color: #bea1a5;
+    font-family: Playfair Display;
     }
 
-img
-    {
-        max-width: 100%;
-        height: auto;
-        padding: 40px;
-        justify-content: center;
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 40px;
+    justify-content: center;
     }
+
+.info {
+    justify-items: center;
+    flex-direction: row-reverse;
+}
