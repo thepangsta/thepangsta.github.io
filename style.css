@@ -7,7 +7,7 @@ img {
     max-width: 100%;
     height: auto;
     padding: 40px;
-    justify-content: center;
+    justify-items: center;
     }
 
 .about {
@@ -20,7 +20,7 @@ img {
 
 footer {
     padding: 20px;
-    text-align: right;
+    text-align: center;
     color: white;
 }
 
